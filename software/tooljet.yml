@@ -10,12 +10,12 @@ platforms:
 tags:
   - Software Development - Low Code
 source_code_url: https://github.com/ToolJet/ToolJet
-stargazers_count: 37650
+stargazers_count: 37657
 updated_at: '2026-03-25'
 archived: false
 current_release:
-  tag: v3.20.130-lts
-  published_at: '2026-03-25'
+  tag: v3.21.11-beta
+  published_at: '2026-03-26'
 commit_history:
   2025-04: 607
   2025-05: 296

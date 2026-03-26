@@ -11,12 +11,12 @@ tags:
   - Generative Artificial Intelligence (GenAI)
 demo_url: https://www.lobechat.com
 related_software_url: https://lobehub.com/mcp
-stargazers_count: 74311
-updated_at: '2026-03-25'
+stargazers_count: 74360
+updated_at: '2026-03-26'
 archived: false
 current_release:
-  tag: v2.2.0-nightly.202603250628
-  published_at: '2026-03-25'
+  tag: v2.2.0-nightly.202603260631
+  published_at: '2026-03-26'
 commit_history:
   2025-04: 285
   2025-05: 228
@@ -29,4 +29,4 @@ commit_history:
   2025-12: 546
   2026-01: 940
   2026-02: 378
-  2026-03: 343
+  2026-03: 368

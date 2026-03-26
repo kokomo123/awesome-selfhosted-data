@@ -10,12 +10,12 @@ platforms:
 tags:
   - Task Management & To-do Lists
 source_code_url: https://github.com/AppFlowy-IO/appflowy
-stargazers_count: 68795
+stargazers_count: 68824
 updated_at: '2026-03-20'
 archived: false
 current_release:
-  tag: 0.11.4
-  published_at: '2026-03-09'
+  tag: 0.11.5
+  published_at: '2026-03-26'
 commit_history:
   2025-04: 271
   2025-05: 93
