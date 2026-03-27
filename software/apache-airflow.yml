@@ -9,8 +9,8 @@ platforms:
 tags:
   - Automation
 source_code_url: https://github.com/apache/airflow/
-stargazers_count: 44792
-updated_at: '2026-03-26'
+stargazers_count: 44807
+updated_at: '2026-03-27'
 archived: false
 current_release:
   tag: helm-chart/1.20.0
@@ -27,4 +27,4 @@ commit_history:
   2025-12: 487
   2026-01: 590
   2026-02: 593
-  2026-03: 832
+  2026-03: 846

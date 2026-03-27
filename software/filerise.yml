@@ -11,7 +11,7 @@ tags:
 source_code_url: https://github.com/error311/FileRise
 demo_url: https://github.com/error311/FileRise?tab=readme-ov-file#live-demo
 stargazers_count: 931
-updated_at: '2026-03-25'
+updated_at: '2026-03-27'
 archived: false
 current_release:
   tag: v3.11.1
@@ -28,4 +28,4 @@ commit_history:
   2025-12: 92
   2026-01: 47
   2026-02: 27
-  2026-03: 34
+  2026-03: 35
