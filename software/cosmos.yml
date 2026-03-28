@@ -10,12 +10,12 @@ platforms:
 tags:
   - Self-hosting Solutions
 source_code_url: https://github.com/azukaar/cosmos-Server
-stargazers_count: 5816
-updated_at: '2026-03-27'
+stargazers_count: 5817
+updated_at: '2026-03-28'
 archived: false
 current_release:
-  tag: v0.22.3
-  published_at: '2026-03-27'
+  tag: v0.22.4
+  published_at: '2026-03-28'
 commit_history:
   2025-04: 1
   2025-05: 0
@@ -28,4 +28,4 @@ commit_history:
   2025-12: 2
   2026-01: 16
   2026-02: 44
-  2026-03: 29
+  2026-03: 30
