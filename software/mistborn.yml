@@ -9,3 +9,9 @@ platforms:
 tags:
   - Self-hosting Solutions
 source_code_url: https://gitlab.com/cyber5k/mistborn
+stargazers_count: 712
+updated_at: '2024-12-05'
+archived: false
+current_release:
+  tag: v2.4.0
+  published_at: '2024-06-10'
