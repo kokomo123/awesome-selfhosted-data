@@ -9,8 +9,8 @@ platforms:
 tags:
   - Web Servers
   - Remote Access
-stargazers_count: 20275
-updated_at: '2026-04-15'
+stargazers_count: 20281
+updated_at: '2026-04-16'
 archived: false
 current_release:
   tag: 1.17.1
@@ -27,4 +27,4 @@ commit_history:
   2026-01: 285
   2026-02: 519
   2026-03: 451
-  2026-04: 197
+  2026-04: 203

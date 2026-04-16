@@ -10,7 +10,7 @@ platforms:
 tags:
   - Generative Artificial Intelligence (GenAI)
 related_software_url: https://localai.io/gallery.html
-stargazers_count: 45457
+stargazers_count: 45462
 updated_at: '2026-04-16'
 archived: false
 current_release:
@@ -22,4 +22,4 @@ commit_history:
   2026-01: 182
   2026-02: 179
   2026-03: 272
-  2026-04: 125
+  2026-04: 129
