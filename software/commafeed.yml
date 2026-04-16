@@ -10,12 +10,12 @@ tags:
   - Feed Readers
 source_code_url: https://github.com/Athou/commafeed
 demo_url: https://www.commafeed.com/#/app/category/all
-stargazers_count: 3496
-updated_at: '2026-04-02'
+stargazers_count: 3505
+updated_at: '2026-04-16'
 archived: false
 current_release:
-  tag: 7.0.0
-  published_at: '2026-02-21'
+  tag: 7.1.0
+  published_at: '2026-04-15'
 commit_history:
   2025-05: 109
   2025-06: 84
@@ -27,5 +27,5 @@ commit_history:
   2025-12: 92
   2026-01: 87
   2026-02: 101
-  2026-03: 83
-  2026-04: 2
+  2026-03: 87
+  2026-04: 43

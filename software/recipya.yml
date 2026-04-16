@@ -10,12 +10,12 @@ platforms:
 tags:
   - Recipe Management
 demo_url: https://recipes.musicavis.ca/guide/login
-stargazers_count: 388
-updated_at: '2026-03-30'
+stargazers_count: 391
+updated_at: '2026-04-04'
 archived: false
 current_release:
   tag: nightly
-  published_at: '2026-03-31'
+  published_at: '2026-04-05'
 commit_history:
   2025-05: 4
   2025-06: 0
@@ -28,4 +28,4 @@ commit_history:
   2026-01: 0
   2026-02: 0
   2026-03: 11
-  2026-04: 0
+  2026-04: 3

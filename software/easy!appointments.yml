@@ -9,8 +9,8 @@ tags:
   - Booking and Scheduling
 source_code_url: https://github.com/alextselegidis/easyappointments
 demo_url: https://demo.easyappointments.org/
-stargazers_count: 4121
-updated_at: '2026-03-26'
+stargazers_count: 4139
+updated_at: '2026-04-13'
 archived: false
 current_release:
   tag: 1.6.0-beta.2
@@ -27,4 +27,4 @@ commit_history:
   2026-01: 4
   2026-02: 1
   2026-03: 7
-  2026-04: 0
+  2026-04: 4

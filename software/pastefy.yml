@@ -11,8 +11,8 @@ tags:
   - Pastebins
 source_code_url: https://github.com/interaapps/pastefy
 related_software_url: https://github.com/topics/pastefy-addon
-stargazers_count: 421
-updated_at: '2026-03-18'
+stargazers_count: 423
+updated_at: '2026-04-13'
 archived: false
 current_release:
   tag: 7.2.1
@@ -29,4 +29,4 @@ commit_history:
   2026-01: 0
   2026-02: 0
   2026-03: 24
-  2026-04: 0
+  2026-04: 1

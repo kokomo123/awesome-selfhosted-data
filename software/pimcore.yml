@@ -9,12 +9,12 @@ platforms:
 tags:
   - Content Management Systems (CMS)
 source_code_url: https://github.com/pimcore/pimcore
-stargazers_count: 3741
-updated_at: '2026-04-01'
+stargazers_count: 3740
+updated_at: '2026-04-16'
 archived: false
 current_release:
-  tag: v12.3.3
-  published_at: '2026-02-19'
+  tag: v2026.1.0
+  published_at: '2026-04-08'
 commit_history:
   2025-05: 41
   2025-06: 29
@@ -27,4 +27,4 @@ commit_history:
   2026-01: 28
   2026-02: 14
   2026-03: 31
-  2026-04: 3
+  2026-04: 22

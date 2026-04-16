@@ -9,8 +9,8 @@ platforms:
 tags:
   - Communication - Video Conferencing
 demo_url: https://janus.conf.meetecho.com/demos/
-stargazers_count: 9060
-updated_at: '2026-03-30'
+stargazers_count: 9073
+updated_at: '2026-04-16'
 archived: false
 commit_history:
   2025-05: 10
@@ -23,5 +23,5 @@ commit_history:
   2025-12: 2
   2026-01: 4
   2026-02: 6
-  2026-03: 4
-  2026-04: 0
+  2026-03: 5
+  2026-04: 5
