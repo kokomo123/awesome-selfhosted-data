@@ -9,12 +9,12 @@ tags:
   - Software Development - Low Code
 source_code_url: https://github.com/mnfst/manifest
 demo_url: https://manifest.new
-stargazers_count: 5044
-updated_at: '2026-04-18'
+stargazers_count: 5341
+updated_at: '2026-04-20'
 archived: false
 current_release:
-  tag: manifest@5.47.0
-  published_at: '2026-04-17'
+  tag: manifest@5.47.2
+  published_at: '2026-04-20'
 commit_history:
   2025-05: 27
   2025-06: 134
@@ -27,4 +27,4 @@ commit_history:
   2026-01: 354
   2026-02: 538
   2026-03: 910
-  2026-04: 167
+  2026-04: 206
