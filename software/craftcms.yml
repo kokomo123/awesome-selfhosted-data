@@ -10,7 +10,7 @@ tags:
 source_code_url: https://github.com/craftcms/cms
 demo_url: https://craftcms.com/demo
 stargazers_count: 3558
-updated_at: '2026-04-21'
+updated_at: '2026-04-22'
 archived: false
 current_release:
   tag: 5.9.20
@@ -27,4 +27,4 @@ commit_history:
   2026-01: 870
   2026-02: 206
   2026-03: 220
-  2026-04: 52
+  2026-04: 77
