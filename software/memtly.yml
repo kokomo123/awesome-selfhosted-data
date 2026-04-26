@@ -1,0 +1,12 @@
+name: Memtly
+website_url: https://docs.memtly.com/
+demo_url: https://demo.memtly.com/
+source_code_url: https://github.com/Memtly/Memtly.Community
+description: Event photo sharing platform and gallery with slideshow that allows guests to view and share memories via a QR code.
+licenses:
+  - GPL-3.0
+platforms:
+  - C#
+  - Docker
+tags:
+  - Photo Galleries
